@@ -6,7 +6,7 @@ WifiDeauther é uma ferramenta de hacker para desautenticar clientes de redes Wi
 
 Em outras palavras essa ferramenta desconecta todos os dispositivos da rede Wi-Fi selecionada, tudo isso feito a distância de forma fácil e rápida com esse script automatizado.
 
-![Screenshot_Main_Screen](https://raw.githubusercontent.com/hugorayd/WifiDeauther/main/screenshots/main_screen.png)
+![Screenshot_Main_Screen](https://github.com/hugorayd/WifiDeauther/blob/WifiDeauther/screenshots/main_screen.png)
 
 ## AVISO LEGAL
 Derrubar ou executar qualquer atividade em redes Wi-Fi não autorizadas pode ser considerado crime, ainda que o objetivo não seja causar dano a vítima.
